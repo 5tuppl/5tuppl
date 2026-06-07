@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Astana, Kazakhstan &nbsp;·&nbsp;  B.Sc. Mathematical & Computational Science ('28)
+  📍 Astana, Kazakhstan &nbsp;·&nbsp;  1'st year B.Sc. Mathematical & Computational Science ('28)
 </p>
 
 ---
