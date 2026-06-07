@@ -17,19 +17,13 @@
 I mostly build small tools to fix things that annoy me — usually CLI utilities, sometimes ML stuff. I'm pragmatic about reaching for whatever gets the job done (yes, including AI), and I'd rather ship something honest and rough than fake something polished.
 
 - 🔭 Currently grinding through algorithms, ODEs, linear algebra & ML
-- 🌱 Poking at OCR for Arabic-script Kazakh (Төте жазу)
-- 🏁 Hackathon enjoyer — Decentrathon 5.0, DE-VIBED
-- 🀄 Learning Chinese, daily and stubbornly
-- ⚡ Fun fact: I start more projects than I finish, but the ones I finish are usually worth it
-
+- I live in terminal and solve math for fun
 ---
 
-### 🛠️ Tech I reach for
+### 🛠️ Tech 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
