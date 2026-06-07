@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/5tuppl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Math+%26+CS+student+%40+Astana+IT+University;I+build+CLI+tools+and+ML+stuff;Python+%C2%B7+Java+%C2%B7+Rust+%C2%B7+Linux;Learning+Chinese+%E2%80%94+slowly+but+stubbornly" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Mathematical and+%26+Computational science+student+%40+Astana+IT+University;I+build+CLI+tools+and+ML+stuff;Python+%C2%B7+Java+%C2%B7+Rust+%C2%B7+Linux;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  📍 Astana, Kazakhstan &nbsp;·&nbsp; 🎓 B.Sc. Mathematical & Computational Science ('28)
+  📍 Astana, Kazakhstan &nbsp;·&nbsp;  B.Sc. Mathematical & Computational Science ('28)
 </p>
 
 ---
 
-### 🧠 About me
+###  About me
 
 I mostly build small tools to fix things that annoy me — usually CLI utilities, sometimes ML stuff. I'm pragmatic about reaching for whatever gets the job done (yes, including AI), and I'd rather ship something honest and rough than fake something polished.
 
